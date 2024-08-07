@@ -1,4 +1,7 @@
-html {
-  height: 100%;
-  width: 100%;
+button[type="submit"], button[type="reset"] {
+  outline: 2px solid green; /* Green outline */
+  background-color: green; /* Green background */
+  color: white; /* White text */
+  padding: 20px 40px; /* Add padding for a bigger button */
+  font-size: 1.2em; /* Increase font size */
 }
